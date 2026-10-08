@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Local/raw data
+data/
+state/
+
+# Database backups
+*.dump
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
